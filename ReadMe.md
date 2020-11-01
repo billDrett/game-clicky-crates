@@ -7,9 +7,7 @@ has to click or the crates and avoid the skulls. If a crate is not destroyed the
 </p>
 
 
-<h2> In game screenshot </h2>
-![alt text](https://github.com/billDrett/clicky-crates/blob/main/game-screenshots/gameScreenShot.png)
-
+![Alt text](https://github.com/billDrett/clicky-crates/blob/main/game-screenshots/gameScreenShot.png?raw=true "In game screenshot")
 
 <h2> Copyright and assets </h2>
 The assets for the Tutorial-5 "Create with code" were used for the game. The purpose is not commercial. 
