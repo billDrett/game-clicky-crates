@@ -1,4 +1,4 @@
-<h1> Cliclky Crates </h1>
+<h1> Clicky Crates </h1>
 
 <h2> Description </h2>
 <p> Game powered by unity.
